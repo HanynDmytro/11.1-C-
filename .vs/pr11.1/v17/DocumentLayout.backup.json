@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DAD658-2463-4758-9766-1B4632134D4D}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43DAD658-2463-4758-9766-1B4632134D4D}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB5DDAF-7FDE-4506-9C04-D0A73BE6BEEC}|pr11.1\\pr11.1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\pr11.1\\pr11.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAB5DDAF-7FDE-4506-9C04-D0A73BE6BEEC}|pr11.1\\pr11.1.vcxproj|solutionrelative:pr11.1\\pr11.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB5DDAF-7FDE-4506-9C04-D0A73BE6BEEC}|pr11.1\\pr11.1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\pr11.1\\t.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAB5DDAF-7FDE-4506-9C04-D0A73BE6BEEC}|pr11.1\\pr11.1.vcxproj|solutionrelative:pr11.1\\t.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pr11.1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\pr11.1\\pr11.1.cpp",
+              "RelativeDocumentMoniker": "pr11.1\\pr11.1.cpp",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\pr11.1\\pr11.1.cpp",
+              "RelativeToolTip": "pr11.1\\pr11.1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T13:46:23.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\UnitTest1\\UnitTest1.cpp*",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T14:26:26.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "t.txt",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\pr11.1\\t.txt",
+              "RelativeDocumentMoniker": "pr11.1\\t.txt",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr11\\pr11.1\\pr11.1\\pr11.1\\t.txt",
+              "RelativeToolTip": "pr11.1\\t.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T13:47:16.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
